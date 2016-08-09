@@ -72,6 +72,7 @@ html, body, .swiper-container, .swiper-slide {
 .page1 > img:nth-child(1) {
     left: .2rem;
     top: 3rem;
+    z-index: 1;
 }
 
 .page1 > img:nth-child(2) {
@@ -79,6 +80,7 @@ html, body, .swiper-container, .swiper-slide {
     top: 1.6rem;
     width: 1.8rem;
     height: .8rem;
+    z-index: 1;
 }
 
 .page1 > img:nth-child(3) {
@@ -86,6 +88,7 @@ html, body, .swiper-container, .swiper-slide {
     top: 2.04rem;
     width: 1.79rem;
     height: .65rem;
+    z-index: 1;
 }
 
 .page1 > img:nth-child(4) {
@@ -93,11 +96,13 @@ html, body, .swiper-container, .swiper-slide {
     top: 2.27rem;
     width: 1.8rem;
     height: .83rem;
+    z-index: 1;
 }
 
 .page1 > img:nth-child(5) {
     left: .2rem;
     top: .1rem;
+
 }
 
 #page1 > img:nth-child(1) {
